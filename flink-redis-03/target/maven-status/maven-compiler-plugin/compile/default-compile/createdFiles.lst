@@ -1,0 +1,6 @@
+com\ms\flink\redis\SinkToRedis.class
+com\ms\flink\redis\TeacherInfo.class
+com\ms\flink\redis\KafkaToRedis.class
+com\ms\flink\redis\RedisUtil.class
+com\ms\flink\redis\Driver.class
+com\ms\flink\redis\KafkaToRedis$1.class

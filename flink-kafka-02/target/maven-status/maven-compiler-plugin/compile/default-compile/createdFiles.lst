@@ -1,0 +1,11 @@
+com\ms\flink\kafka\message\KafkaMessageStreaming$1.class
+com\ms\flink\kafka\job\Demo.class
+com\ms\flink\kafka\message\KafkaMessageStreaming.class
+com\ms\flink\kafka\message\KafkaProducerTest.class
+com\ms\flink\kafka\util\JSONHelper.class
+com\ms\flink\kafka\domain\SingleMessage.class
+com\ms\flink\kafka\job\StreamingJob.class
+com\ms\flink\kafka\util\MemoryUsageExtrator.class
+com\ms\flink\kafka\message\KafkaProducerTest$1.class
+com\ms\flink\kafka\message\MessageWaterEmitter.class
+com\ms\flink\kafka\message\MessageSplitter.class
